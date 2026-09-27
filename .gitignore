@@ -1,0 +1,18 @@
+
+# Compiled executables
+*.exe
+*.o
+*.out
+
+# Debug files
+*.pdb
+*.ilk
+*.obj
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log# Personal contact data
+contacts.txt

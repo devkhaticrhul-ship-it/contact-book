@@ -1,0 +1,15 @@
+
+# Compiled programs
+*.exe
+*.o
+*.out
+
+# Personal contact database
+contacts.txt
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
